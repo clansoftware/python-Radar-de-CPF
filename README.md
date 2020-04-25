@@ -1,7 +1,8 @@
 ### Como Rodar ###
-Acesse a pasta: /dist e execute o arquivo app
+1. Execute o comando: `pyinstaller --onefile --windowed app.py` para gerar o executavel
+2. Acesse a pasta: /dist e execute o arquivo app
 
-<img src="screenshot.png" width="240px" />
+<img src="screenshot.png" width="428px" />
 
 ## Dependencias ##
 
